@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.digicelgroup.com/en/media/news/2016/may/17/digicel-play-launches-catch-and-catch-2/_jcr_content/image.asset.spool/rsz_catch.jpg" group-title="JAMAICA",Catch 2
+http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stluciatimes.com/wp-content/uploads/2016/05/CATCH-150x150.jpg" group-title="JAMAICA",Catch
+http://161.0.157.9/PLTV/88888888/224/3221226865/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2016/03/Watch-MTM-TV-Live-TV-from-Jamaica.jpg" group-title="RELIGION",MTM TV (Jamaica)
+http://media.btbn.tv/mtmtv/live/playlist.m3u8

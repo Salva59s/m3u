@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",Channel NewsAsia [EN][432p]
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Singapore",Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8

@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ALCARRIA TV [ES][576p]
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANAL 10 CANCUN [720p]
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",MULTIMEDIOS MONTERREY [720p]
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",NUESTRA VISION NOTICIAS
+http://189.204.137.189:8888/canal6mobiles.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",PRESUMIENDO
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ULTRA TV PUEBLA
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:-1 group-title="Local" tvg-id="" tvg-name="" tvg-logo="",CANAL 15 Zacatecas [1080p]
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Mexico-WEBTV" tvg-logo="http://elpoderdelespiritu.com/channels/rcgtv.png",RCG 1 TV
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 group-title="Mexico-WEBTV" tvg-logo="https://pbs.twimg.com/profile_images/1401363587/logo_400x400.jpg",RCG 2 TV
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 group-title="Mexico-WEBTV" tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png",RCG 3 TV
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 group-title="MX: Mexico",MX: TELEFORMULA NEW
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO",Canal Iberoamericano
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vx0MDvE.jpg" group-title="MEXICO",Impactovision TV Matamoros
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvdxtips.com/canal10chiapas2015.jpg" group-title="MEXICO",Canal 10 Chiapas
+http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
+#EXTINF:-1 tvg-logo="http://noticaribe.com.mx/wp/wp-content/uploads/2017/02/sqcsnuevo_-400x400.png" group-title="MEXICO",SQCS Chetumal
+http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqtpjZs.jpg" group-title="MEXICO",TVP Los Mochis
+https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqtpjZs.jpg" group-title="MEXICO",TVP Cd. Obregon
+https://5a3911d64928b.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MeaSmiv.jpg" group-title="Canales Mexicanos",15TV Sabinas SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canales Mexicanos",Multimedios Monterrey HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NsPz9Tr.png" group-title="Canales Mexicanos",RCG SD
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FqtpjZs.jpg" group-title="Canales Mexicanos",TVP Mazatlan FHD
+https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.azteca.com/imagenes/2018/48/logo-2274363.png" group-title="Mexico(México)",Azteca +
+https://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: Ultra TV Puebla
+http://kimbogrupol.com:25461/julian/julian1/13085
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: Telemar Campeche
+http://kimbogrupol.com:25461/julian/julian1/13091
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: RTQ Queretaro
+http://kimbogrupol.com:25461/julian/julian1/13094
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: RTG Guerrero
+http://kimbogrupol.com:25461/julian/julian1/13095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: RCG 01 Saltillo
+http://kimbogrupol.com:25461/julian/julian1/13097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: RCG  Saltillo
+http://kimbogrupol.com:25461/julian/julian1/13098
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: OchoTV Guadalajara
+http://kimbogrupol.com:25461/julian/julian1/13100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: Canal 15 Zacatecas
+http://kimbogrupol.com:25461/julian/julian1/13111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: Canal 10 Cancun
+http://kimbogrupol.com:25461/julian/julian1/13113
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: Canal 4 Saltillo
+http://kimbogrupol.com:25461/julian/julian1/13114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: TELEMUNDO UHD
+http://kimbogrupol.com:25461/julian/julian1/17333
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MX: NAVARRA TELEVISIÓN España
+http://kimbogrupol.com:25461/julian/julian1/7727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MEXICO:Multimedios
+http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png" group-title="MEXICO",A+
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="MEXICO",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 group-title="(MX) Mexico",BBLACK | SD (MX)
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1 group-title="(MX) Mexico",HECHOS | SD (MX)
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 group-title="(MX) Mexico",MICROVISION CANAL 10 | SD (MX)
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 group-title="(MX) Mexico",MONTE MARIA | SD (MX)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="(MX) Mexico",ROCK | SD (MX)
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-155/chunklist.m3u8
+#EXTINF:-1 group-title="(MX) Mexico",TEN | HD (MX)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
